@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #e6fff2;
+}
+
+
+li {background-color: #b6ffda;
+    list-style: none;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
+}
+
+button {
+    cursor: pointer;
+}
